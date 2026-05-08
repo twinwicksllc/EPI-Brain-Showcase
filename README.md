@@ -14,6 +14,45 @@
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="screenshots/01-landing-guest-mode.png" alt="EPI Brain Landing Page – Guest Mode" width="75%"/>
+      <br/><sub><b>Landing Page & Guest Mode</b> — Starfield hero with 3D brain logo, guest message quota, voice input, Discovery Mode & Study tabs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/02-chat-weight-loss-coach.png" alt="Chat – Weight Loss Coach Mode" width="100%"/>
+      <br/><sub><b>Weight Loss Coach Mode</b> — AI adapts full persona for fitness & nutrition coaching with structured, actionable guidance</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/03-chat-personal-companion.png" alt="Chat – Personal Companion Mode" width="100%"/>
+      <br/><sub><b>Personal Companion Mode</b> — Empathetic emotional support with real-time conversation history and mode-switching sidebar</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="screenshots/04-the-vault.png" alt="The Vault – Notes Sidebar" width="100%"/>
+      <br/><sub><b>The Vault</b> — Slide-in notes sidebar with All / Note / Draft / Reflection tabs for saving insights from conversations</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="screenshots/05-clarity-metrics-panel.png" alt="Clarity Metrics User Panel" width="100%"/>
+      <br/><sub><b>Clarity Metrics Panel</b> — Real-time conversation intelligence: Clarity Score, Confidence, Coherence, Depth & Progression tracking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="screenshots/06-admin-dashboard.png" alt="Admin Dashboard – System Metrics" width="75%"/>
+      <br/><sub><b>Admin Dashboard</b> — JWT-gated system overview: token usage, message counts, cost tracking, uptime, growth metrics & detailed analytics</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📖 What Is It?
 
 EPI Brain is a full-stack, production-deployed AI chat platform where users converse with an AI that adapts its personality, tone, and expertise based on the selected mode. Whether someone needs a personal friend to talk to, a weight loss coach, a business mentor, or a student tutor — EPI Brain switches its entire persona to match.
